@@ -1,4 +1,4 @@
-**🤖 EA Safe Math - Expert Forex Trading Robot in MQL4 📈**
+# **🤖 EA Safe Math - Expert Forex Trading Robot in MQL4 📈**
 
 EA Safe Math, your reliable Forex trading expert designed to maximize your trading potential with precision and safety. This advanced robot is meticulously crafted with a powerful combination of smart martingale and price action strategies to deliver exceptional results in the dynamic currency markets. Let's dive into the key features and specifications that make EA Safe Math a top choice for traders:
 
